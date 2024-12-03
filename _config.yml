@@ -24,11 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Garrett Leach is a Software Developer based in the Dallas area
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: garrettleach
 github_username:  garrettleach
-mastodon:
-- username: garrettleach
-  instance: masthead.social
 
 # Build settings
 theme: minima
