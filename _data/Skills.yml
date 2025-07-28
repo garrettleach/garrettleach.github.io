@@ -11,17 +11,15 @@ contents:
     "
   - title: Frameworks
     description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnet/dotnet-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows/windows.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg)
     "
   - title: Tools
     description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terminal/terminal.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/atlassian/atlassian.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg)
     "
