@@ -1,0 +1,28 @@
+subject: Experiences
+listing-order: 2
+icon: "/assets/img/briefcase.svg"
+contents:
+  - title: Dell Technologies
+    role: Senior Software Engineer
+    description:
+      - Led full development cycle of Dell Trusted Device companion product Event Repository (SIEM integration)
+      - Led development of multiple features including BIOS Attributes and Events
+      - Led user mode developement of Dell Data Protection Encryption
+      - Created developer, tester and end-user training and presentations
+      - Founding member of Dell Trusted Device
+    date: Jun. 2014 - Ongoing
+  - title: Dell Technologies
+    role: Security Champion
+    description: 
+      - Part time role in parallel with my Software Engineer role (10%-20% of time)
+      - Managed threat models, security score cards, penetration testing, training and progress toward organization security initiatives
+      - Advocated for and ensured security needs were prioritized and planned on an ongoing basis
+      - First responder to vulnerability reports, resolving all 3 external reports well within the timeline
+      - Improved ease of use and speed of orgaization wide security reporting tools
+    date: 2018 - 2021
+  - title: AT&T
+    role: Software Engineer Intern
+    description: 
+      - Built a task management system with user managment using Java and MySQL
+      - Built a system to analyze landline escalations to detect trends and correlations
+    date: Jun. 2012 - Aug. 2012

@@ -1,0 +1,11 @@
+subject: Education
+listing-order: 1
+icon: "/assets/img/graduation-cap.svg"
+contents:
+  - title: University of Texas at Dallas, BS in Software Engineering
+    date: Aug. 2010 - May. 2014
+    description:
+      - "Area of Focus: Information Assurance"
+      - "Honors: Magna Cum Laude"
+      - "Honors: Collegium V (Honors College)"
+      - "Honor Society: Phi Kappa Phi"

@@ -1,0 +1,10 @@
+subject: Awards
+listing-order: 5
+icon: "/assets/img/trophy.svg"
+contents:
+  - title: Certified in Cybersecurity (CC)
+    description: ISC2 (International Information System Security Certification Consortium)
+    date: Jan. 2025
+  - title: Dell Hackathon
+    description: Winner of Most Useful for a conference auto-dialer Outlook add-on
+    date: 2015
