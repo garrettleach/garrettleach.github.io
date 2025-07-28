@@ -4,44 +4,44 @@ icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Programming Languages
     description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg)
+      ![C (Programming Language)](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg)
+      ![Modern C++](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg)
+      ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg)
+      ![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg)
     "
   - title: Frameworks
     description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg)
+      ![.NET Core](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg)
+      ![Windows SDK and WDK](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg)
     "
   - title: Learning
     description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vulkan/vulkan-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg)
+      ![Azure (Cloud Provider)](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg)
+      ![Vulkan (Graphics API)](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vulkan/vulkan-original.svg)
+      ![WASM (WebAssembly)](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg)
     "
     # electron
   - title: Previous Experience
     description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg)
+      ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)
+      ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)
+      ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
+      ![Android](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg)
+      ![OpenGL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg)
     "
     # java
   - title: Tools
     description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bamboo/bamboo-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg)
+      ![Microsoft Visual Studio](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg)
+      ![Fedora Linux](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg)
+      ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg)
+      ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg)
+      ![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg)
+      ![Markdown](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg)
+      ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg)
+      ![Nuget](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original.svg)
+      ![SonarQube](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg)
+      ![Atlassian JIRA](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg)
+      ![Atlassian Bamboo](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bamboo/bamboo-original.svg)
+      ![Atlassian BitBucket](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg)
     "
