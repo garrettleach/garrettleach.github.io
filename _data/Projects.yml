@@ -2,6 +2,12 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "Title TBD"
+  - title: "Games Booting in ASM (GBA)"
     description: 
-      - Description TBD
+      - In progress rust game engine for loadable WASM games
+      - Input and output are loosely based on SNES and GBA era design and capabilities
+  - title: "PrettyLauncher"
+    description:
+      - In progress electron app to launch external games
+      - Designed to be themable
+      # - Planned: Ability to download games
