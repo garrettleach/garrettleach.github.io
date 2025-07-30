@@ -11,3 +11,14 @@ contents:
       - In progress electron app to launch external games
       - Designed to be themable
       # - Planned: Ability to download games
+  - title: "Solarcar Racing"
+    description:
+      - I joined and then led the electrical team that built a solar car
+      - We utilized 2 photovoltaic cells and 4 batteries
+      - It carried a NI cRIO to power the driver display (incl. charge level, current draw, net charge)
+      - I programmed the cRIO using LabVIEW to consume data from hall-effect sensors and control a display through TTL
+      - The car was entered into the ["Solar Car Challenge"](https://www.solarcarchallenge.org/challenge/)
+  - title: "Supersonic Rocketry"
+    description:
+      - I was part of team that designed, built, and launched a supersonic rocket
+      - I created a simulator in C using multivariable calculus to validate other simulations
